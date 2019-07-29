@@ -1,0 +1,12 @@
+[
+  {"f_name":"FromType","f_type":"int(11)","f_default":null},
+  {"f_name":"FromId","f_type":"nvarchar(150)","f_default":null},
+  {"f_name":"DocRelTime","f_type":"timestamp NULL","f_default":null},
+  {"f_name":"ThumbFiles","f_type":"nvarchar(500)","f_default":null},
+  {"f_name":"AttachPic","f_type":"smallint(6)","f_default":null},
+  {"f_name":"AttachVideo","f_type":"smallint(6)","f_default":null},
+  {"f_name":"AttachAudio","f_type":"smallint(6)","f_default":null},
+  {"f_name":"DocType","f_type":"int(11)","f_default":null},
+  {"f_name":"OriginMetaDataId","f_type":"int(11)","f_default":null},
+  {"f_name":"VersionNum","f_type":"int(11)","f_default":null}
+]
